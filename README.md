@@ -1,3 +1,5 @@
+![주사위-게임](https://user-images.githubusercontent.com/128350568/235159130-d1fb4945-5775-4ba3-ae2f-ab934235c2ff.png)
+
 ## Redux Toolkit 연습하기
 
 리덕스 툴킷을 연습하기 위해 주사위 게임을 만들었습니다. 코드잇의 과제에 리덕스를 적용한 코드입니다.
