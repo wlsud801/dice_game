@@ -8,5 +8,6 @@
 - 뽑힌 숫자에 맞는 주사위 이미지를 보여준다.
 - 뽑힌 숫자의 기록을 표시한다.
 - 뽑힌 숫자들을 모두 더해 총점을 구해준다.
+- 처음부터 버튼을 누르면 state를 reset해준다.
 
 https://dice-game-dusky-rho.vercel.app/
