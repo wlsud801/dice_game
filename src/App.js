@@ -1,4 +1,3 @@
-import './App.css';
 import logo from './assets/logo.png'
 import './index.css'
 import ButtonArea from './components/ButtonArea';
